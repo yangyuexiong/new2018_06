@@ -20,7 +20,7 @@ et-xmlfile==1.0.1
 eventlet==0.21.0
 Flask==0.12.2
 Flask-Admin==1.5.0
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-Login==0.4.0
 Flask-Migrate==2.1.1
 Flask-RedisSession==0.1.2
