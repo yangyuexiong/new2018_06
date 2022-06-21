@@ -46,7 +46,7 @@ MarkupSafe==1.0
 migrate==0.3.8
 msgpack-python==0.4.8
 nose==1.3.7
-numpy==1.13.3
+numpy==1.22.0
 objectpath==0.5
 odfpy==1.3.5
 openpyxl==2.4.8
