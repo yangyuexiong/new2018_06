@@ -2,7 +2,7 @@ aiml==0.8.6
 alembic==0.9.6
 antiorm==1.2.1
 Appium-Python-Client==0.24
-certifi==2017.7.27.1
+certifi==2022.12.7
 chardet==3.0.4
 click==6.7
 client==0.0.1
